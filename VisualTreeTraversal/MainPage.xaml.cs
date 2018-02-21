@@ -29,7 +29,7 @@ namespace VisualTreeTraversal
         }
         string visulTreeStr = "";
 
-        private void Button_Click(object sender, RoutedEventArgs e)
+        private async void Button_Click(object sender, RoutedEventArgs e)
         {
             visulTreeStr = "";
             GetChildType(stackPanel);
