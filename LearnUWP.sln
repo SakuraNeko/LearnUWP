@@ -1,11 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.27130.2027
+VisualStudioVersion = 15.0.27130.2036
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorldDemo", "HelloWorldDemo\HelloWorldDemo.csproj", "{A4DB0D90-C829-4CAF-85B3-4A8E64526238}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BackButtonDemo", "BackButtonDemo\BackButtonDemo.csproj", "{C9AB0768-40B3-423B-A560-E6D8EE18D927}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicLoadXAML", "DynamicLoadXAML\DynamicLoadXAML.csproj", "{5F6CF25E-A607-4BAE-AB0D-DD696B737A06}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -53,6 +55,24 @@ Global
 		{C9AB0768-40B3-423B-A560-E6D8EE18D927}.Release|x86.ActiveCfg = Release|x86
 		{C9AB0768-40B3-423B-A560-E6D8EE18D927}.Release|x86.Build.0 = Release|x86
 		{C9AB0768-40B3-423B-A560-E6D8EE18D927}.Release|x86.Deploy.0 = Release|x86
+		{5F6CF25E-A607-4BAE-AB0D-DD696B737A06}.Debug|ARM.ActiveCfg = Debug|ARM
+		{5F6CF25E-A607-4BAE-AB0D-DD696B737A06}.Debug|ARM.Build.0 = Debug|ARM
+		{5F6CF25E-A607-4BAE-AB0D-DD696B737A06}.Debug|ARM.Deploy.0 = Debug|ARM
+		{5F6CF25E-A607-4BAE-AB0D-DD696B737A06}.Debug|x64.ActiveCfg = Debug|x64
+		{5F6CF25E-A607-4BAE-AB0D-DD696B737A06}.Debug|x64.Build.0 = Debug|x64
+		{5F6CF25E-A607-4BAE-AB0D-DD696B737A06}.Debug|x64.Deploy.0 = Debug|x64
+		{5F6CF25E-A607-4BAE-AB0D-DD696B737A06}.Debug|x86.ActiveCfg = Debug|x86
+		{5F6CF25E-A607-4BAE-AB0D-DD696B737A06}.Debug|x86.Build.0 = Debug|x86
+		{5F6CF25E-A607-4BAE-AB0D-DD696B737A06}.Debug|x86.Deploy.0 = Debug|x86
+		{5F6CF25E-A607-4BAE-AB0D-DD696B737A06}.Release|ARM.ActiveCfg = Release|ARM
+		{5F6CF25E-A607-4BAE-AB0D-DD696B737A06}.Release|ARM.Build.0 = Release|ARM
+		{5F6CF25E-A607-4BAE-AB0D-DD696B737A06}.Release|ARM.Deploy.0 = Release|ARM
+		{5F6CF25E-A607-4BAE-AB0D-DD696B737A06}.Release|x64.ActiveCfg = Release|x64
+		{5F6CF25E-A607-4BAE-AB0D-DD696B737A06}.Release|x64.Build.0 = Release|x64
+		{5F6CF25E-A607-4BAE-AB0D-DD696B737A06}.Release|x64.Deploy.0 = Release|x64
+		{5F6CF25E-A607-4BAE-AB0D-DD696B737A06}.Release|x86.ActiveCfg = Release|x86
+		{5F6CF25E-A607-4BAE-AB0D-DD696B737A06}.Release|x86.Build.0 = Release|x86
+		{5F6CF25E-A607-4BAE-AB0D-DD696B737A06}.Release|x86.Deploy.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
