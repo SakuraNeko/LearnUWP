@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BackButtonDemo", "BackButto
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicLoadXAML", "DynamicLoadXAML\DynamicLoadXAML.csproj", "{5F6CF25E-A607-4BAE-AB0D-DD696B737A06}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VisualTreeTraversal", "VisualTreeTraversal\VisualTreeTraversal.csproj", "{A44A6073-1B90-4215-A6A6-48921944079A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|ARM = Debug|ARM
@@ -73,6 +75,24 @@ Global
 		{5F6CF25E-A607-4BAE-AB0D-DD696B737A06}.Release|x86.ActiveCfg = Release|x86
 		{5F6CF25E-A607-4BAE-AB0D-DD696B737A06}.Release|x86.Build.0 = Release|x86
 		{5F6CF25E-A607-4BAE-AB0D-DD696B737A06}.Release|x86.Deploy.0 = Release|x86
+		{A44A6073-1B90-4215-A6A6-48921944079A}.Debug|ARM.ActiveCfg = Debug|ARM
+		{A44A6073-1B90-4215-A6A6-48921944079A}.Debug|ARM.Build.0 = Debug|ARM
+		{A44A6073-1B90-4215-A6A6-48921944079A}.Debug|ARM.Deploy.0 = Debug|ARM
+		{A44A6073-1B90-4215-A6A6-48921944079A}.Debug|x64.ActiveCfg = Debug|x64
+		{A44A6073-1B90-4215-A6A6-48921944079A}.Debug|x64.Build.0 = Debug|x64
+		{A44A6073-1B90-4215-A6A6-48921944079A}.Debug|x64.Deploy.0 = Debug|x64
+		{A44A6073-1B90-4215-A6A6-48921944079A}.Debug|x86.ActiveCfg = Debug|x86
+		{A44A6073-1B90-4215-A6A6-48921944079A}.Debug|x86.Build.0 = Debug|x86
+		{A44A6073-1B90-4215-A6A6-48921944079A}.Debug|x86.Deploy.0 = Debug|x86
+		{A44A6073-1B90-4215-A6A6-48921944079A}.Release|ARM.ActiveCfg = Release|ARM
+		{A44A6073-1B90-4215-A6A6-48921944079A}.Release|ARM.Build.0 = Release|ARM
+		{A44A6073-1B90-4215-A6A6-48921944079A}.Release|ARM.Deploy.0 = Release|ARM
+		{A44A6073-1B90-4215-A6A6-48921944079A}.Release|x64.ActiveCfg = Release|x64
+		{A44A6073-1B90-4215-A6A6-48921944079A}.Release|x64.Build.0 = Release|x64
+		{A44A6073-1B90-4215-A6A6-48921944079A}.Release|x64.Deploy.0 = Release|x64
+		{A44A6073-1B90-4215-A6A6-48921944079A}.Release|x86.ActiveCfg = Release|x86
+		{A44A6073-1B90-4215-A6A6-48921944079A}.Release|x86.Build.0 = Release|x86
+		{A44A6073-1B90-4215-A6A6-48921944079A}.Release|x86.Deploy.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
